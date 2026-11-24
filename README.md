@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230260
+# Name: Shankar S B
+# Date: 24.11.26
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1917" height="1078" alt="Screenshot 2026-10-23 104419" src="https://github.com/user-attachments/assets/0a4946e3-4d7b-4a1e-9c14-c42d8ed22dca" />
 
 
 
@@ -60,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1917" height="1078" alt="Screenshot 2026-10-27 144100" src="https://github.com/user-attachments/assets/8dcb5ebc-ae1f-4560-83b9-9a03d9c418a3" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,6 +70,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1382" height="727" alt="image" src="https://github.com/user-attachments/assets/6c36ddd6-8f1c-45b7-981d-4429162f4e5d" />
 
 
 
@@ -81,6 +84,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/b23838d2-b9d1-41f8-bc2b-fd0165e99d66" />
 
 
 
@@ -99,6 +103,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1052" height="586" alt="image" src="https://github.com/user-attachments/assets/9dd02270-90a7-48b5-b1a0-5e2816ee2773" />
 
 
 
@@ -120,6 +125,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1373" height="735" alt="image" src="https://github.com/user-attachments/assets/76e3190e-cd5b-47f4-b9fa-3464d664004e" />
 
 
 
